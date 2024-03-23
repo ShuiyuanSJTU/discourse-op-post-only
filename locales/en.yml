@@ -1,0 +1,5 @@
+en:
+  filter_by_op: "Filter by OP (%{count} posts)"
+  show_all_posts: "Show all posts"
+  theme_metadata:
+    description: "Add a 'Filter by OP' button to the topic timeline"

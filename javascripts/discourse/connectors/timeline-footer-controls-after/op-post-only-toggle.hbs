@@ -1,0 +1,9 @@
+{{log @outletArgs}}
+{{#if this.shouldShow}}
+    <DButton
+        @action={{this.toggleOpPostOnly}}
+        @icon="filter"
+        @translatedTitle={{this.buttonTitle}}
+        class={{this.buttonClass}}
+    />
+{{/if}}

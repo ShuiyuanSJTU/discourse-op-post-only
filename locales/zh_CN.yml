@@ -1,0 +1,5 @@
+zh_CN:
+  filter_by_op: "只看楼主（%{count}个帖子）"
+  show_all_posts: "显示全部帖子"
+  theme_metadata:
+    description: "在话题时间线下方添加只看楼主按钮"

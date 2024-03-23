@@ -1,0 +1,12 @@
+show_op_only_button:
+  type: bool
+  default: true
+  description:
+    zh_CN: "显示‘只看楼主’按钮"
+    en: "Show 'Filter by OP' button"
+show_op_only_post_count_threshold:
+  type: integer
+  default: 1
+  description:
+    zh_CN: "只有楼主的帖子数量大于等于此值时才显示‘只看楼主’按钮（不包含第一个帖子）"
+    en: "Only show 'Filter by OP' button when the OP has at least this many posts (excluding the first post)"
